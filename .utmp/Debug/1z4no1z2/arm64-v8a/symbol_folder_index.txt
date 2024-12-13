@@ -1,0 +1,1 @@
+C:\Proyectos\inacap\realidad_aumentada\vrConQuest\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\Debug\1z4no1z2\obj\arm64-v8a

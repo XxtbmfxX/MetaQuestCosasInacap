@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tetris Blocks Collection
+* source:	https://sketchfab.com/3d-models/tetris-blocks-collection-41ed7c3fc0eb4519ae1245f4fb1aecbb
+* author:	jaromir.ternavskiy (https://sketchfab.com/jaromir.ternavskiy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tetris Blocks Collection" (https://sketchfab.com/3d-models/tetris-blocks-collection-41ed7c3fc0eb4519ae1245f4fb1aecbb) by jaromir.ternavskiy (https://sketchfab.com/jaromir.ternavskiy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

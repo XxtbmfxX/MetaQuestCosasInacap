@@ -1,0 +1,2 @@
+C:\Proyectos\Inacap\realidad_aumentada\vrConQuest\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Proyectos\Inacap\realidad_aumentada\vrConQuest\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

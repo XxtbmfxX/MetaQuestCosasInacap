@@ -1,0 +1,11 @@
+Model Information:
+* title:	BMO - Disassembled
+* source:	https://sketchfab.com/3d-models/bmo-disassembled-51505e44c9d3481f904ae397012c1611
+* author:	yanchido (https://sketchfab.com/yanchido)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BMO - Disassembled" (https://sketchfab.com/3d-models/bmo-disassembled-51505e44c9d3481f904ae397012c1611) by yanchido (https://sketchfab.com/yanchido) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
